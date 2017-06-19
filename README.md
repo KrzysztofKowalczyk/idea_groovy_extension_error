@@ -4,3 +4,4 @@ When one define [extension module](http://groovy-lang.org/metaprogramming.html#_
 but when compiling, compilation fails, even though it works in Gradle. 
 
 
+![Screenshot](screenshot.png)
