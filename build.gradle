@@ -1,0 +1,11 @@
+apply plugin: "groovy"
+
+description = "Project using extension module from submodule"
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile project(":extensions")
+}
